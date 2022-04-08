@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0;
+    font-family: 'Patrick Hand', cursive;
+    letter-spacing: 2px;
+}
+
+.note{
+    font-size: 16px;
+    color: black;
+}
+
+#song_name{
+    color: white;
+    font-size: 20px;
+}
+
+canvas{
+    background: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
